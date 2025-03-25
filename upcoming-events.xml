@@ -6,7 +6,7 @@
         <date>2025-08-12T14:00:00</date>
         <location>Football Ground, XIM University</location>
         <description>Xamboree is the annual cultural and management fest of XIM University, Odisha, celebrated with a vibrant array of music, dance, and artistic performances. The festival spans multiple days, each featuring a diverse lineup of events and renowned artists.</description>
-        <image>/images/xamboree.png</image>
+        <image>./images/xamboree.png</image>
         <department>Cultural</department>
     </event>
     <event>
@@ -15,7 +15,7 @@
         <date>2025-05-30T14:00:00</date>
         <location>Mini Auditorium,XIM University</location>
         <description>Explore contemporary ethical issues in law practice with distinguished judges and legal professionals.</description>
-        <image>/images/law.png</image>
+        <image>./images/law.png</image>
         <department>Law</department>
     </event>
     <event>
@@ -24,7 +24,7 @@
         <date>2025-06-10T09:30:00</date>
         <location>CS Building, Room 305</location>
         <description>Undergraduate and graduate students present their latest research projects in AI, machine learning, and software engineering.</description>
-        <image>/images/xicai.png</image>
+        <image>./images/xicai.png</image>
         <department>Computer Science</department>
     </event>
     <event>
@@ -33,7 +33,7 @@
         <date>2025-05-05T13:00:00</date>
         <location>Business School, Conference Hall</location>
         <description>Practical workshop for students interested in starting their own business, with mentorship from successful entrepreneurs.</description>
-        <image>/images/xpreneurs.png</image>
+        <image>./images/xpreneurs.png</image>
         <department>Business</department>
     </event>
     <event>
@@ -42,7 +42,7 @@
         <date>2025-10-08T13:00:00</date>
         <location>Main Auditorium,XIM University</location>
         <description>Join us for our annual technology summit featuring guest speakers from leading tech companies and showcasing student projects.</description>
-        <image>/images/synchronize.png</image>
+        <image>./images/synchronize.png</image>
         <department>Computer Science</department>
     </event>
 </events>
