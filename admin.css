@@ -1,0 +1,321 @@
+/* Admin Login Styles */
+.admin-login-container {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.admin-login-form h2 {
+    color: #3572EF;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.login-btn {
+    background-color: #3572EF;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+.login-btn:hover {
+    background-color: #2a5fd9;
+}
+
+.login-message {
+    text-align: center;
+    margin-top: 15px;
+    color: #e74c3c;
+}
+
+.login-message.success {
+    color: #2ecc71;
+}
+
+/* Admin Dashboard Styles */
+.admin-dashboard {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.admin-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.admin-header h2 {
+    color: #3572EF;
+    margin: 0;
+}
+
+.logout-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.logout-btn:hover {
+    background-color: #c0392b;
+}
+
+.admin-tabs {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.admin-tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.admin-tab.active {
+    border-bottom-color: #3572EF;
+    color: #3572EF;
+    font-weight: 500;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.events-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.events-table th,
+.events-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.events-table th {
+    background-color: #f8f8f8;
+    font-weight: 600;
+}
+
+.events-table tr:hover {
+    background-color: #f5f7ff;
+}
+
+.action-btn {
+    padding: 6px 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+.edit-btn {
+    background-color: #3498db;
+    color: white;
+}
+
+.edit-btn:hover {
+    background-color: #2980b9;
+}
+
+.delete-btn {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.delete-btn:hover {
+    background-color: #c0392b;
+}
+
+.move-btn {
+    background-color: #f39c12;
+    color: white;
+}
+
+.move-btn:hover {
+    background-color: #d35400;
+}
+
+.add-event-form {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.add-event-form .form-group {
+    margin-bottom: 15px;
+}
+
+.add-event-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.add-event-form input,
+.add-event-form textarea,
+.add-event-form select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.add-event-form textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.submit-btn {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+    background-color: #27ae60;
+}
+
+.form-message {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.success-message {
+    color: #2ecc71;
+}
+
+.error-message {
+    color: #e74c3c;
+}
+/* Footer Contact Form Styles */
+footer {
+    background-color: #A7E6FF;
+    display: flex;
+    padding: 3rem 2rem;
+    max-width: 100%;
+}
+.footer-contact-form {
+    flex: 1;
+    padding-right: 20px;
+}
+.footer-contact-form h2 {
+    margin-bottom: 10px;
+    color: #3572EF;
+    font-size: 1.5rem;
+}
+.footer-contact-form p {
+    margin-bottom: 20px;
+    color: #333;
+}
+.footer-contact-form form {
+    display: flex;
+    flex-direction: column;
+}
+.footer-contact-form input, 
+.footer-contact-form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #3572EF;
+    width: 100%;
+    box-sizing: border-box;
+}
+.footer-contact-form .send-btn {
+    background-color: #3572EF;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s;
+}
+.footer-contact-form .send-btn:hover {
+    background-color: #2A5CD9;
+}
+.footer-contact-info {
+    background-color: #3572EF;
+    color: white;
+    padding: 20px;
+    flex: 0 0 300px;
+}
+.footer-contact-info h3 {
+    color: white;
+    margin-bottom: 20px;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+.footer-contact-info-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.footer-contact-info-item span {
+    margin-left: 10px;
+}
+.footer-social-icons {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+.footer-social-icons a {
+    margin-right: 15px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.footer-social-icons a:hover {
+    color: #A7E6FF;
+}

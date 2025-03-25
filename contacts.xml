@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <!-- Sample initial contact entry -->
+    <contact>
+        <id>1</id>
+        <name>John Doe</name>
+        <email>johndoe@example.com</email>
+        <message>Initial test message</message>
+        <timestamp>2025-03-25T12:00:00Z</timestamp>
+    </contact>
+</contacts>

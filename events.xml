@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <id>1</id>
+        <title>Annual Tech Symposium</title>
+        <date>2025-04-15T10:00:00</date>
+        <location>Computer Science Building, Room 101</location>
+        <description>Join us for the latest innovations in technology with keynote speakers from leading tech companies.</description>
+        <image>/api/placeholder/400/320</image>
+        <department>Computer Science</department>
+    </event>
+    <event>
+        <id>2</id>
+        <title>Spring Concert</title>
+        <date>2025-04-20T19:00:00</date>
+        <location>University Auditorium</location>
+        <description>A night of classical music performed by our talented music department students.</description>
+        <image>/api/placeholder/400/320</image>
+        <department>Arts &amp; Humanities</department>
+    </event>
+    <event>
+        <id>3</id>
+        <title>Business Leadership Conference</title>
+        <date>2025-05-10T09:00:00</date>
+        <location>Business School, Conference Hall</location>
+        <description>Network with industry leaders and learn about emerging business trends.</description>
+        <image>/api/placeholder/400/320</image>
+        <department>Business</department>
+    </event>
+    <event>
+        <id>4</id>
+        <title>Engineering Expo</title>
+        <date>2025-03-25T11:00:00</date>
+        <location>Engineering Building, Main Hall</location>
+        <description>Students showcase their innovative engineering projects and prototypes.</description>
+        <image>/api/placeholder/400/320</image>
+        <department>Engineering</department>
+    </event>
+    <event>
+        <id>5</id>
+        <title>Global Health Seminar</title>
+        <date>2025-03-15T14:00:00</date>
+        <location>Medical Sciences Building, Lecture Hall B</location>
+        <description>Exploring current challenges and innovations in global healthcare.</description>
+        <image>/api/placeholder/400/320</image>
+        <department>Medical Sciences</department>
+    </event>
+    <event>
+        <id>6</id>
+        <title>Environmental Law Symposium</title>
+        <date>2025-02-28T13:00:00</date>
+        <location>Law Building, Room 302</location>
+        <description>Discussing recent developments in environmental legislation and policy.</description>
+        <image>/api/placeholder/400/320</image>
+        <department>Law</department>
+    </event>
+</events>

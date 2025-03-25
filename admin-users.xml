@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>admin</username>
+        <password>admin123</password>
+    </user>
+    <user>
+        <username>eventofficer</username>
+        <password>event123</password>
+    </user>
+</users>
